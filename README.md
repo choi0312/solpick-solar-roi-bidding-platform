@@ -1,6 +1,9 @@
 # SOLPICK: 일사량·발전량 예측 기반 태양광 설치 경제성 분석 및 시공사 매칭 플랫폼
 
-<img width="769" height="314" alt="image" src="https://github.com/user-attachments/assets/b32d1645-e8d0-4792-b75a-965526040ded" />
+<img width="775" height="268" alt="image" src="https://github.com/user-attachments/assets/9692ec0e-a407-40fa-af2f-b3e153807135" />
+
+
+
 
 
 SOLPICK은 사용자가 지역, 지붕 면적, 방향, 경사, 음영 조건, 전기요금 정보를 입력하면 예상 태양광 발전량과 경제성을 계산하고, 조건에 맞는 시공사를 비교·추천하는 웹 기반 의사결정 지원 서비스입니다.
