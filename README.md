@@ -10,8 +10,9 @@
 본 저장소는 아이디어 기획안을 바탕으로 구현한 서비스 프로토타입입니다. 현재 버전은 데모용 지역별 일사량 테이블, 지원금 규칙, 시공사 샘플 데이터를 사용하며, 실제 서비스 적용 시 기상청 기상자료개방포털, 한국에너지공단, 실제 시공사 데이터베이스와 연동할 수 있도록 구조화했습니다.
 <br>
 <br>
-SOLPICK System Architecture
 <img width="1018" height="679" alt="image" src="https://github.com/user-attachments/assets/fae6bb5c-872b-43ae-ba8c-bff09fad78b6" />
+SOLPICK System Architecture
+
 <br>
 
 ## 1. 프로젝트 개요
