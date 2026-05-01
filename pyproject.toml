@@ -1,0 +1,12 @@
+[project]
+name = "solpick-solar-roi-bidding-platform"
+version = "0.1.0"
+description = "Solar generation, ROI analysis, subsidy matching, and installer recommendation web prototype."
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.black]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

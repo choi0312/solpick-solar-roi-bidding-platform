@@ -1,0 +1,8 @@
+region,user_type,subsidy_per_kw,subsidy_cap,description
+전국,residential,400000,3000000,주택용 태양광 설치 지원 데모 규칙
+전국,small_business,300000,5000000,소상공인 태양광 설치 지원 데모 규칙
+서울,residential,500000,4000000,서울 주택용 추가 지원 데모 규칙
+부산,residential,450000,3500000,부산 주택용 추가 지원 데모 규칙
+대전,small_business,350000,6000000,대전 소상공인 추가 지원 데모 규칙
+광주,small_business,360000,6000000,광주 소상공인 추가 지원 데모 규칙
+제주,residential,550000,4500000,제주 주택용 추가 지원 데모 규칙

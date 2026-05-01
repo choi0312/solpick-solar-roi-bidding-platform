@@ -1,0 +1,1 @@
+"""SOLPICK core package."""

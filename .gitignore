@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime outputs
+outputs/
+logs/
+*.log
+
+# Secrets
+.env
+*.key
+token.txt
+github_token.txt
+
+# Large files
+*.zip
+*.tar
+*.gz
+*.rar
+*.mp4
+*.mov
+*.avi
